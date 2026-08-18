@@ -17,11 +17,11 @@ Multichannel just means you've got a presence everywhere  a website, an app, a s
 The 6 Things Real Omnichannel Commerce Requires
 1. One Customer Profile, Not Five
 
-When a customer messages you on WhatsApp, browses your site, and buys something in-store, that shouldn't create three disconnected records. Diginyze's CRM stitches all of it into a single 360° profile automatically, so whoever's helping that customer — a chatbot, a store associate, an email campaign — actually knows who they're talking to.
+When a customer messages you on WhatsApp, browses your site, and buys something in-store, that shouldn't create three disconnected records. Diginyze's CRM stitches all of it into a single 360° profile automatically, so whoever's helping that customer  a chatbot, a store associate, an email campaign  actually knows who they're talking to.
 
 2. Inventory That's Actually in Sync
 
-Few things kill trust faster than "sorry, that's actually out of stock" after someone's already ordered — or finding out the in-store price didn't match what the app promised. Diginyze runs on one inventory ledger across stores, warehouses, and every online channel, updated in real time. No guessing, no double selling.
+Few things kill trust faster than "sorry, that's actually out of stock" after someone's already ordered  or finding out the in-store price didn't match what the app promised. Diginyze runs on one inventory ledger across stores, warehouses, and every online channel, updated in real time. No guessing, no double selling.
 
 3. Prices That Don't Change Depending on Where You Look
 
@@ -40,13 +40,13 @@ Diginyze's AI tracks behavior across every channel and keeps recommendations rel
 6. Analytics That Show the Whole Picture
 
 If your website, POS, and marketplace data live in three different dashboards, you're not actually seeing your customer's journey  you're seeing fragments of it. 
-Diginyze pulls everything — web, POS, mobile, social, marketplaces — into a single view, so you can actually understand performance, lifetime value, and what's driving conversions.
+Diginyze pulls everything  web, POS, mobile, social, marketplaces into a single view, so you can actually understand performance, lifetime value, and what's driving conversions.
 
 **How Diginyze Stacks Up**
 
 Omnichannel Feature	Diginyze	Shopify	Magento
 Unified Customer Profiles	Native (CRM + Commerce)	Partial (limited CRM)	Requires integration
-Real-Time Inventory Sync	Native — all channels	Apps required	Custom development
+Real-Time Inventory Sync	Native  all channels	Apps required	Custom development
 Integrated POS	Native web + mobile POS	Shopify POS (separate)	Extensions
 BOPIS / Ship-from-Store	Native	App required	Custom
 AI-Driven Personalization	Native ML engine	Third-party app	Third-party
@@ -70,7 +70,7 @@ Sync your Amazon, eBay, and other marketplace listings through native connectors
 Turn on mobile commerce with Diginyze's built-in app framework
 Bring social commerce into the fold through the marketing module
 Get unified analytics running from day one
-Omnichannel Isn't Optional Anymore — It's Just the Standard
+Omnichannel Isn't Optional Anymore  It's Just the Standard
 
 Here's the uncomfortable truth: customers who hit friction moving between your channels usually don't complain. They just quietly go somewhere else. Diginyze was built so that doesn't happen  every touchpoint stays coordinated, personalized, and consistent, because that's baked into the architecture, not bolted on as an afterthought.
 
